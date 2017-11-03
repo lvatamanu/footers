@@ -1,0 +1,1 @@
+Realizarea unui subsol simplu, folosind proprietatea display: table.
